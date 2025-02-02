@@ -1,0 +1,17 @@
+blinker   
+build                       
+click              
+Flask              
+importlib_metadata 
+itsdangerous       
+Jinja2             
+MarkupSafe 
+packaging                
+pip           
+pip-tools            
+pyproject_hooks   
+setuptools        
+tomli              
+Werkzeug      
+wheel                 
+zipp               
